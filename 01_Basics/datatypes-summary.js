@@ -22,6 +22,7 @@ const bigNumber = 3456674656438373763n  // bigInt
 // in js we can't define language never
 
 
+
 // reference type ( non primitive )
 
 // Array , Objects, Functions
@@ -37,3 +38,19 @@ const myfunction = function(){
 }  // bigInt
 
 console.log(typeof anotherId);
+
+
+// *****************************Memory********************
+// memories are two types - Stack(Primitive) , Heap Memory(Non-Primitive)
+
+let myYouTubename = "hiteshchaudharydotcom"
+let anothername = myYouTubename
+anothername = "chaiaurcode"
+
+console.log(myYouTubename);
+console.log(anothername);
+
+let userOne = {
+    email: "user@gmail.com",
+    upi: "user@gyb"
+}
