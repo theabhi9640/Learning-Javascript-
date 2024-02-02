@@ -54,3 +54,10 @@ let userOne = {
     email: "user@gmail.com",
     upi: "user@gyb"
 }
+
+let userTwo = userOne
+
+userTwo.email = "abhishekyadav6660@gmail.com"
+
+console.log(userOne.email);
+console.log(userTwo.email);
