@@ -30,3 +30,5 @@ console.log(Math.max(4, 3, 6, 8)); */
 
 console.log(Math.random());
 
+
+
