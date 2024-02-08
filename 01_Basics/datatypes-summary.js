@@ -31,16 +31,16 @@ const heros = ["haktiman", "naagraj", "doga"];
 let myObj = {
     name: "hitesh",
     age: 22,
-}    // array 
+}      // array 
 
 const myfunction = function(){
     console.log("Hello world");
-}  // bigInt
+}    // bigInt
 
-console.log(typeof anotherId);
+console.log(typeof anotherId); 
 
 
-// *****************************Memory********************
+//   *****************************Memory*************************
 // memories are two types - Stack(Primitive) , Heap Memory(Non-Primitive)
 
 let myYouTubename = "hiteshchaudharydotcom"
