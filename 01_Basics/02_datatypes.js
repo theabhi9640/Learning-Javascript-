@@ -12,8 +12,8 @@ console.log(3
     let age = 18 // number datatype
     let isLoggedIn = false // boolean data type
 
-// datatypes primitive
-// number => 2 to power 53
+// datatypes primitive    
+// number => 2 to power  53
 // bigint
 // string => ""
 // boolean => true/false
@@ -21,7 +21,7 @@ console.log(3
 // undefined => now value not assign 
 // symbol => unique
 
-// datatypes non-primitive
+// non-primitive datatypes
 
 // object
 
